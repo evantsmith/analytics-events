@@ -1,0 +1,122 @@
+.textarea {
+    font-size: 28px;
+    font-family: Helvetica;
+    height: 495px;
+    width: 49.5%;
+    display: inline-block;
+    position: absolute;
+    top: 80px;
+    right: 0px;
+}
+.horizonImg {
+    height: 500px;
+    width: 50.5%;
+    display: inline-block;
+    position: absolute;
+    top: 80px;
+}
+h1 {
+    height: 80px;
+    position: absolute;
+    margin: 0;
+    width: 100%;
+    text-align: center;
+}
+body {
+    margin: 0;
+    position: absolute;
+    height: 100%;
+    width: 100%;
+}
+.heading {
+    position: relative;
+    top: 25px;
+    //font-size: 18px;
+}
+.xkcd {
+    display: inline-block;
+    position: absolute;
+    top: 580px;
+    width: 50%;
+    height: 500px;
+    background-color: Deepskyblue;
+    text-align: center;
+
+}
+.youtube {
+    display: inline-block;
+    position: absolute;
+    top: 580px;
+    width: 50%;
+    height: 500px;
+    right: 0px;
+    background-color: red;
+    text-align: center;
+}
+.youtubeText {
+    color: white;
+    position: relative;
+    top: 50%;
+    font-size: 26px
+
+}
+
+.xkcdText {
+    color: black;
+    position: relative;
+    top: 50%;
+    font-size: 26px;
+
+}
+
+.boxOfText {
+    display: inline-block;
+    position: absolute;
+    top: 1080px;
+    width: 50%;
+    height: 500px;
+    background-color: green;
+    text-align: center;
+    font-size: 32px;
+    margin: 0;
+    border: 1px solid black;
+    text: ;
+
+}
+
+.porcupine {
+    height: 500px;
+    width: 50%;
+    display: inline-block;
+    position: absolute;
+    top: 1080px;
+    right: 0px;
+}
+.giantButton {
+    height: 500px;
+    width: 50%;
+    display: inline-block;
+    position:absolute;
+    top:1580px;
+    font-size: 36px;
+}
+
+.checkBox {
+    height:500px;
+    background-color: purple;
+    width: 50%;
+    display: inline-block;
+    position: absolute;
+    top: 1580px;
+    right: 0px;
+}
+
+input[type=checkbox] {
+    position: relative;
+    top: 12.5%;
+    left: 27.5%;
+    height: 250px;
+    width: 250px;
+    zoom: 1.5;
+
+}
